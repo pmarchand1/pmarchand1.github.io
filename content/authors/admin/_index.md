@@ -18,7 +18,7 @@ role: 'Data Scientist'
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: [Enter bio here.]
+bio: "Enter bio here."
 
 #interests:
 #- Artificial Intelligence
