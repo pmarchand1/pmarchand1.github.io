@@ -28,13 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
-
+    - name: Ecology
+      tag: Ecology
+    - name: Courses
+      tag: Courses
+      
 design:
   columns: '1'
   view: masonry
