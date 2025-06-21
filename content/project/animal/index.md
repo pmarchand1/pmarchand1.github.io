@@ -3,7 +3,7 @@ title: Animal Movement
 summary: Fit individual-based models of animal movement to field data.
 tags:
   - Ecology
-date: ''
+date: '2025-06-21'
 ---
 
 It is often useful to model biological or social systems by simulating the behavior of individuals based on set rules; so-called individual-based or agent-based models. For those models, forward simulation of the system is simple, but the inverse problem of inferring model parameters from observations is much more complex. This is due to each individual's path being the outcome of a series of decisions, each depending probabilistically on previous steps, so that a calculation of the likelihood across the "tree" of all possible paths becomes intractable. 

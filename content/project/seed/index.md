@@ -3,7 +3,7 @@ title: Seed Dispersal
 summary: Estimate seed dispersal and seedling survival vs. distance from the parent tree.
 tags:
   - Ecology
-date: ''
+date: '2025-06-21'
 ---
 
 Understanding how a diversity of species can coexist on the long term at a given place remains an active area of research in ecology. One popular explanation for the high local biodiversity of tropical forests is the Janzen-Connell hypothesis, according to which mature trees attract specialized predators feeding on their seeds, suppressing the emergence of seedlings close to their parent and leaving space for other species. Mathematically, this implies that whereas the *seed dispersal kernel* (the distribution of seeds vs. distance from the parent) peaks at the parent tree's location, the *effective dispersal kernel* (the distribution of surviving seedlings) peaks away from the parent.

@@ -3,7 +3,7 @@ title: Spruce Budworm Outbreaks
 summary: Data fusion methods for the historical reconstruction and near-term forecasting of forest insect outbreaks.
 tags:
   - Ecology
-date: ''
+date: '2025-06-21'
 ---
 
 Hierarchical Bayesian models (also known as Bayesian networks) are used to describe complex data-generating process as graphs of random variables, that include observed data but also missing data or latent variables. Variables in the model are connected by relationships of conditional probability and the parameters of those relationships can be estimated by Monte Carlo algorithms such as Markov Chain (MCMC) or Hamiltonian (HMC) Monte Carlo.
