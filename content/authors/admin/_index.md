@@ -6,7 +6,7 @@ title: Philippe Marchand
 superuser: true
 
 # Role/position
-role: 'Applied Statistician and Data Scientist'
+role: ''
 
 # Status emoji
 #status:
