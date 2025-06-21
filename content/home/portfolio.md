@@ -28,10 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Ecology
+    - name: Ecological Research
       tag: Ecology
-    - name: Courses
+    - name: Teaching
       tag: Courses
+    - name: Software
+      tag: Software
       
 design:
   columns: '1'

@@ -6,7 +6,7 @@ title: Philippe Marchand
 superuser: true
 
 # Role/position
-role: 'Data Scientist'
+role: 'Applied Statistician and Data Scientist'
 
 # Status emoji
 #status:
@@ -18,7 +18,7 @@ role: 'Data Scientist'
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Enter bio here."
+#bio: "Enter bio here."
 
 #interests:
 #- Artificial Intelligence
@@ -65,6 +65,6 @@ social:
 #email: ""
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am an applied statistician and data scientist with over 15 years of research experience designing experiments, analysis plans, and custom models in collaboration with specialists in various disciplines (physics, ecology, genetics, economics). I have developed a specific expertise in the use of Bayesian analysis to combine mechanistic and empirical models, and to integrate evidence from disparate sources of data.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
